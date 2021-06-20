@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "668103108564",
+      "project_id": "hdmoneymoneyb",
+      "storage_bucket": "hdmoneymoneyb.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:668103108564:android:10b1659fe2503dfcdd9841",
+          "android_client_info": {
+            "package_name": "com.fedreamlife"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "668103108564-526k6156rnkienqb27eanatqjqfbtdvm.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.fedreamlife",
+              "certificate_hash": "7fee03a4399a89041858907a0edf43c3fa3aed6c"
+            }
+          },
+          {
+            "client_id": "668103108564-950undunt5gekc6ish2r94c66eeqssm8.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDI5OV-0YRt3FF7v3rnbhygyZ1bWXnaTbM"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "668103108564-950undunt5gekc6ish2r94c66eeqssm8.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
